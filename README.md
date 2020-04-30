@@ -1,5 +1,8 @@
 ## Appendix for the Alife paper: Experimental social evolution using a game engine
 
+![lateGen](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Later-gens.gif)
+*Example of an evolved population of grabbers and stingers competing for food*
+
 ![multi](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Multiple-patch-view2.png)
 *Multiple arena can run at the same time with different configurations*
 

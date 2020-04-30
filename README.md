@@ -10,7 +10,7 @@
 
 ![chem](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Artificial-Chem1.gif)
 
-*Implementation of artificial chemistry. Here an example of an autocatalytic reaction. More examples [here](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Artificial-Chem2.gif) and [here](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Artificial-Chem3.gif)*
+*Implementation of a randomised artificial chemistry. Here an example of an autocatalytic reaction. More examples [here](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Artificial-Chem2.gif) and [here](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/Artificial-Chem3.gif)*
 
 
 ![chem](https://github.com/cls00/Experimental-social-evolution/blob/master/Features-Preview/VegetationAssets.png)
